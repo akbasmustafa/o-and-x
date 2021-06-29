@@ -12,8 +12,6 @@ const Cell = ({ value, onPress }) => {
       style={{
         width: 50,
         height: 50,
-        borderColor: 'black',
-        borderWidth: 2,
         alignItems: 'center',
         justifyContent: 'center'
       }}
